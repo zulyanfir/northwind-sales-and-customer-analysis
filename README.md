@@ -1,4 +1,5 @@
-Hello! 
+Hello! Portofolio ini berisi analisis data menggunakan Northwind Database sebagai studi kasus.
+Tujuan dari proyek ini adalah untuk mengeksplorasi data penjualan, pelanggan, dan produk menggunakan SQL, serta menghasilkan insight yang relevan untuk mendukung pengambilan keputusan bisnis.
 
 
 ```sql 
