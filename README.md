@@ -37,6 +37,9 @@ left join products p on p."ProductID" = od."ProductID"
 left join shippers s on s."ShipperID" = o."ShipVia"
 left join categories c2 on c2."CategoryID"  = p."CategoryID";
 ```
+#### Output 
+<img width="1798" height="466" alt="image" src="https://github.com/user-attachments/assets/e86e91a7-ef6d-49d2-96ce-c13234273224" />
+
 
 
 ```sql
@@ -59,6 +62,9 @@ order by
 	f_score desc,
 	m_score desc;
 ```
+
+#### Output:
+<img width="871" height="389" alt="image" src="https://github.com/user-attachments/assets/65efe9e9-eb57-43b4-9666-33d80c87cf9e" />
 
 
 
