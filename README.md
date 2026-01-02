@@ -2,12 +2,15 @@
 <h1 style="font-family: 'Trebuchet MS', sans-serif; monospace;">Northwind Sales and Customer Analysis 🔎</h1>
 </div>
 
-
 Hai! 🙋‍♂️
 
 <div align='justify'>
+   
 Portofolio ini berisi analisis data menggunakan Northwind Database sebagai studi kasus.
-Tujuan dari proyek ini adalah untuk mengeksplorasi data penjualan, pelanggan, dan produk menggunakan SQL, Python, dan Tableau serta menghasilkan insight yang relevan untuk mendukung pengambilan keputusan bisnis.
+Tujuan dari proyek ini adalah untuk mengeksplorasi data Northwind (dummy) menggunakan SQL, Python, dan Tableau serta menghasilkan insight yang relevan untuk mendukung pengambilan keputusan bisnis.
+
+Northwind Database adalah database contoh fiktif tentang perusahaan ekspor-impor (Northwind Traders) yang dibuat oleh Microsoft untuk tujuan edukasi. Database ini berisi data penjualan, pelanggan, pemasok, produk, karyawan, dan detail pesanan, menunjukkan bagaimana data disimpan dalam database relasional. 
+
 </div>
 
 <br>
